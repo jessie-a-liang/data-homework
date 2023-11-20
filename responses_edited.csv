@@ -1,0 +1,14 @@
+Order,SpaceEarth,LeadSmall,MeetingTime,WorkingHours,SpaceOcean,TimeTravel,DieInfo,FavClass,CatDog
+1,Space,Lead,2:00 PM,9 to 5,Ocean,Forwards,No,Unreal Engine,Dog person
+2,Space,Lead,10:00 AM,Flex,Space,Forwards,No,Creative Coding,Dog person
+3,Earth,Small,10:00 AM,Flex,Space,Forwards,Yes,Unreal Engine,Cat person
+4,Space,Lead,2:00 PM,Flex,Space,Forwards,Yes,Creative Coding,Dog person
+5,Space,Small,2:00 PM,Flex,Space,Forwards,Yes,Unreal Engine,Dog person
+6,Space,Lead,10:00 AM,9 to 5,Space,Forwards,No,Creative Coding,Cat person
+7,Earth,Lead,10:00 AM,Flex,Space,Backwards,No,Unreal Engine,Dog person
+8,Earth,Small,2:00 PM,Flex,Ocean,Forwards,Yes,Unreal Engine,Cat person
+9,Space,Lead,10:00 AM,9 to 5,Space,Backwards,No,Unreal Engine,Dog person
+10,Space,Lead,10:00 AM,9 to 5,Space,Backwards,No,Unreal Engine,Dog person
+11,Space,Lead,10:00 AM,9 to 5,Space,Backwards,No,Unreal Engine,Cat person
+12,Earth,Lead,10:00 AM,9 to 5,Space,Forwards,No,Unreal Engine,Cat person
+13,Space,Small,10:00 AM,Flex,Space,Forwards,No,Creative Coding,Cat person
